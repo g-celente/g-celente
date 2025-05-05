@@ -1,4 +1,4 @@
-## Olá, meu nome é Guilherme Celente e sou Desenvolvedor Back-end Freelancer com foco em Java, Node.js e Python!👋
+## Olá, meu nome é Guilherme Celente e sou Desenvolvedor Back-end com foco em Java, Node.js, Python e Golang!👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/guilherme-celente-7105ba2bb/))
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/celenteguilherme/)
@@ -34,7 +34,7 @@ status de assinaturas.
 ![Celente GitHub stats](https://github-readme-stats.vercel.app/api?username=g-celente&show_icons=true&theme=radical)
 
 ## Em aprendizado
-- **API´s Rest** com Spring Boot, Spring Security e Docker
+- **API´s Rest** com Spring Boot, Spring Security, Golang e Docker
 - **Cloud Computting* Com AWS
 - Mensageria com Kafka
 - Arquitetura Microserviços com Java
