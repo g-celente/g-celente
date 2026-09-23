@@ -3,10 +3,10 @@
 Engenheiro de Software & DevOps com foco em arquitetura cloud-native, observabilidade, microsserviços e automação de infraestrutura. Atualmente atuo como **Engenheiro DevOps na Spotside** (remoto internacional), sendo responsável pela sustentação de ambientes multi-cluster, observabilidade em produção e migrações de alta disponibilidade.
 
 🎓 **Graduando em Engenharia de Software** — PUCPR (Conclusão prevista: Nov/2027)  
-📍 Curitiba, Brasil[cite: 1]
+📍 Curitiba, Brasil
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermecelente)[cite: 1]
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/g-celente)[cite: 1]
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermecelente)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/g-celente)
 
 ---
 
@@ -23,9 +23,9 @@ Engenheiro de Software & DevOps com foco em arquitetura cloud-native, observabil
 
 ### 🚀 Principais Atuações Técnicas
 
-* **DevOps & Infraestrutura (Spotside):** Projeto e implantação do zero de stack completa de observabilidade (Prometheus, Grafana, Alertmanager); operação e gerenciamento de múltiplos clusters Docker Swarm em produção; execução de migração *zero-downtime* de dados em arquitetura multi-tenant (150 tenants) entre MongoDB, Redis e OVH S3[cite: 1].
-* **Desenvolvimento Backend & Serverless:** Construção de APIs REST/WebSocket de alto volume em Node.js/TypeScript e desenvolvimento de pipelines serverless na AWS (Lambda, SQS, S3 com direct upload, DynamoDB)[cite: 1].
-* **Infraestrutura como Código:** Provisionamento automatizado e modular de recursos AWS com Terraform[cite: 1].
+* **DevOps & Infraestrutura (Spotside):** Projeto e implantação do zero de stack completa de observabilidade (Prometheus, Grafana, Alertmanager); operação e gerenciamento de múltiplos clusters Docker Swarm em produção; execução de migração *zero-downtime* de dados em arquitetura multi-tenant (150 tenants) entre MongoDB, Redis e OVH S3.
+* **Desenvolvimento Backend & Serverless:** Construção de APIs REST/WebSocket de alto volume em Node.js/TypeScript e desenvolvimento de pipelines serverless na AWS (Lambda, SQS, S3 com direct upload, DynamoDB).
+* **Infraestrutura como Código:** Provisionamento automatizado e modular de recursos AWS com Terraform.
 
 ---
 
